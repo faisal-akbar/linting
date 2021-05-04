@@ -1,0 +1,44 @@
+code --list-extensions
+abusaidm.html-snippets
+adpyke.codesnap
+- ChakrounAnas.turbo-console-log    
+christian-kohler.npm-intellisense 
+christian-kohler.path-intellisense
+CoenraadS.bracket-pair-colorizer-2
+cssho.vscode-svgviewer
+-dbaeumer.jshint
+dbaeumer.vscode-eslint
+-dracula-theme.theme-dracula
+dsznajder.es7-react-js-snippets
+ecmel.vscode-html-css
+eg2.vscode-npm-script
+Equinusocio.vsc-community-material-theme
+Equinusocio.vsc-material-theme
+equinusocio.vsc-material-theme-icons
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+formulahendry.code-runner
+hnw.vscode-auto-open-markdown-preview
+HookyQR.beautify
+humao.rest-client
+James-Yu.latex-workshop
+jasonnutter.search-node-modules
+jawandarajbir.react-vscode-extension-pack
+ms-python.python
+ms-toolsai.jupyter
+ms-vsliveshare.vsliveshare
+oderwat.indent-rainbow
+PKief.material-icon-theme
+pranaygp.vscode-css-peek
+ritwickdey.live-sass
+ritwickdey.LiveServer
+steoates.autoimport
+streetsidesoftware.code-spell-checker
+SumitSaha.learn-with-sumit-theme
+TabNine.tabnine-vscode
+VisualStudioExptTeam.vscodeintellicode
+WallabyJs.quokka-vscode
+xabikos.JavaScriptSnippets
+xabikos.ReactSnippets
+zhuangtongfa.material-theme
+Mihai Vilcu-Path Autocomplete
