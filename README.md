@@ -1,5 +1,4 @@
-Inspired by [Linting](https://github.com/sumitsaha/linting) by **Sumit Saha**, **Learn With Sumit** [React](https://github.com/learnwithsumit/think-in-a-react-way/tree/lesson-3), [Next](https://github.com/learnwithsumit/nextjs-crash-course-with-heroes) and [Node](https://github.com/learnwithsumit/nodejs-basic-bangla)
-and
+### Inspired by [Linting](https://github.com/sumitsaha/linting) by **Sumit Saha**, **Learn With Sumit** [React](https://github.com/learnwithsumit/think-in-a-react-way/tree/lesson-3), [Next](https://github.com/learnwithsumit/nextjs-crash-course-with-heroes) and [Node](https://github.com/learnwithsumit/nodejs-basic-bangla)
 
 - [Editor Setup](#editor-setup)
   - [Plugins](#plugins)
